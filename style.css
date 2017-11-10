@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -51,7 +51,7 @@ h3#header {
 }
 
 div.jumbotron {
-  
+
     border-radius: 5px;
     background-color: #e9ecef;
     text-align: center;
@@ -59,6 +59,6 @@ div.jumbotron {
 
 }
 
-div.jumbotron h1 {
+.jumbotron h1 {
     font-size: 60px;
 }
